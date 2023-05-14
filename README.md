@@ -8,6 +8,9 @@
     3.Use the database and run the MediaManagementSystem.sql script which is present in the src folder in the extracted folder using  the following commands:
         ```
         USE OTTDataBase;
+        ```
+        then
+        ```
         SOURCE <path/to/extracted/folder/src/ MediaManagementSystem.sql>;
         ```
 
